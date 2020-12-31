@@ -6,7 +6,7 @@ My project using a Raspberry Pi Zero W as a Spotify player
 2. Raspiaudio Audio+ DAC - https://www.amazon.com/gp/product/B00MDW602K/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 3. Any powered speakers
 4. Power adapter for Pi Zero
-5. (Optional) 3d printed case
+5. (Optional) 3d printed case (https://www.thingiverse.com/thing:4704028)
 
 ## Software
 1. Raspberry Pi OS (2020-12-02)
