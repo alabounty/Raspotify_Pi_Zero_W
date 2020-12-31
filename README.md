@@ -14,5 +14,7 @@ My project using a Raspberry Pi Zero W as a Spotify player
    - `sudo apt install -y apt-transport-https curl`
    - `curl -sSL https://dtcooper.github.io/raspotify/key.asc | sudo apt-key add -v -`
    - `echo 'deb https://dtcooper.github.io/raspotify raspotify main' | sudo tee /etc/apt/sources.list.d/raspotify.list`
+   - `sudo apt update`
+   - `sudo apt install raspotify`
 3. Raspiaudio - https://forum.raspiaudio.com/t/audio-installation-guide/19
    - `sudo wget -O - script.raspiaudio.com | bash`
